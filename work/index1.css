@@ -4,10 +4,31 @@ body {
 }
 *{
     box-sizing: border-box;
+    margin: 0px;
 }
+
 header h1 {
     font-family: Tahoma;
     font-size: 40px;
     font-kerning: auto;
     font-variant-caps: all-petite-caps;
+    text-align: center;
+    
+}
+nav {
+    display: flex;
+    background-color: black;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: aquamarine;
+    
 }
