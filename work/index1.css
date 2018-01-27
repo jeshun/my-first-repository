@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    box-sizing: border-box;
+}
+header h1 {
+    font-family: Tahoma;
+    font-size: 40px;
+    font-kerning: auto;
+    font-variant-caps: all-petite-caps;
+}
