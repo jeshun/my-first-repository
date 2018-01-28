@@ -41,6 +41,7 @@ article{
 }
 footer{
     background-color: aqua;
+    height: 80px;
 }
 .s {
     text-align: center;
