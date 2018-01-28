@@ -2,18 +2,16 @@ body {
     margin: 0px;
     padding: 0px;
 }
-*{
+* {
     box-sizing: border-box;
     margin: 0px;
 }
-
 header h1 {
     font-family: Tahoma;
     font-size: 40px;
     font-kerning: auto;
     font-variant-caps: all-petite-caps;
-    text-align: center;
-    
+    text-align: center; 
 }
 nav {
     display: flex;
@@ -22,7 +20,7 @@ nav {
     justify-content: space-between;
     align-items: center;
 }
-a{
+a {
     color: white;
     padding-left: 20px;
     padding-right: 20px;
@@ -36,14 +34,14 @@ section {
     display: flex;
     justify-content: space-around;
 }
-article{
+article {
     flex-basis: 400px;
 }
-footer{
+footer {
     background-color: aqua;
     height: 80px;
 }
-.s {
+.copy-right {
     text-align: center;
     color: gray;
 }
