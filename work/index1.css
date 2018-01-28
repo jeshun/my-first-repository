@@ -34,4 +34,14 @@ a:hover {
 }
 section {
     display: flex;
+    justify-content: space-around;
+}
+article{
+    flex-basis: 400px;
+}
+footer{
+    background-color: aqua;
+}
+.s {
+    text-align: center;
 }
